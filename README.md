@@ -1,6 +1,6 @@
 ## 👋 hey, I'm bloodyst
 
-i work with **Python automation** and build tools that solve real, practical problems.
+I work with **Python automation** and build tools that solve real, practical problems.
 
 mostly focused on:
 - browser automation
